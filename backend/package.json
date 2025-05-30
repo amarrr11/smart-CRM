@@ -1,0 +1,29 @@
+{
+  "name": "mini-crm",
+  "version": "1.0.0",
+  "description": "Mini CRM Platform with pub-sub architecture",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "helmet": "^7.0.0",
+    "joi": "^17.9.2",
+    "mongoose": "^7.8.7",
+    "morgan": "^1.10.0",
+    "passport": "^0.6.0",
+    "passport-google-oauth20": "^2.0.0",
+    "redis": "^4.6.8",
+    "swagger-ui-express": "^5.0.0",
+    "winston": "^3.17.0",
+    "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

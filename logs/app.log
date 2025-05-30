@@ -1,0 +1,11 @@
+2025-05-28T12:58:23.506Z | INFO | Server started on port 3000
+2025-05-28T12:58:23.553Z | INFO | MongoDB Connected
+2025-05-28T12:58:23.604Z | INFO | Redis Connected
+2025-05-28T12:58:35.260Z | INFO | Server started on port 3000
+2025-05-28T12:58:35.295Z | INFO | MongoDB Connected
+2025-05-28T12:58:35.297Z | INFO | Redis Connected
+2025-05-28T12:58:55.748Z | INFO | GET /orders called
+2025-05-28T12:59:17.486Z | INFO | GET /customers called
+2025-05-28T12:59:44.246Z | INFO | GET /customers called
+2025-05-28T12:59:56.110Z | INFO | GET /customers called
+2025-05-28T13:00:11.781Z | INFO | GET /orders called
