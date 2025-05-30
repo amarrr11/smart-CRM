@@ -7,5 +7,8 @@ export default defineConfig({
       host: true,   
       port: 5173
     },
+  server: {
+    allowedHosts: ['smart-crm-frontend.onrender.com', 'localhost']
+  },
   plugins: [react()],
 })
